@@ -18,6 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=Android-studio&labelColor=0D1117)&nbsp;
 
-<a href="https://osvaldohoch.github.io/DW2-Nodejs-Express/JS-Aula1-Fun%C3%A7%C3%B5es-no-JavaScript/index2.html" style="font-size: 20px; color=#335599"><img src="[https://png.pngtree.com/png-clipart/20241001/original/pngtree-waving-hand-gesture-png-image_16132564.png](https://png.pngtree.com/png-vector/20240110/ourmid/pngtree-palm-hand-png-image_11433865.png)" width="200px"></a>
+<a href="https://osvaldohoch.github.io/DW2-Nodejs-Express/JS-Aula1-Fun%C3%A7%C3%B5es-no-JavaScript/index2.html" style="font-size: 20px; color=#335599"><img src="https://png.pngtree.com/png-vector/20240110/ourmid/pngtree-palm-hand-png-image_11433865.png" width="200px"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24C8FF&height=120&section=footer"/>
