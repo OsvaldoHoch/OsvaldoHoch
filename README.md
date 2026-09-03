@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24C8FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Osvaldo+Hildebrand+;I+am+from+São+Paulo,+SP;I+study+multiplataform+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&logoColor=purple&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+<div style="gap:20px">
+  <img style="margin: 10px; width:3vw; heigth:3vw" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtW41-f13wcfMVqPEl9X70IAV9fvf7oYE6svE8e4xIEA&s=10">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+  <img style="width:3vw; heigth:3vw; margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png">
+</div>
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
